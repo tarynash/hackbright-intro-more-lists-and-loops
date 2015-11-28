@@ -10,7 +10,9 @@ List Exercises 2
 4. Commit your code.
 4. Fix the error (if you got one), so that 5 will be added to the list.
 5. Use the statement `primes.append(7,11)` to add the next two prime numbers to the primes list. What happens?
+	Error
 6. If you got an error, what does this error mean?
+	Append method can only take 1 argument, and 2 arguments were given. Need to append 1 number at a time or use extend method.
 7. Use the statement `primes.append([7,11])` to add the next two prime numbers to the primes list. What happens? (Hint: you may have to print primes to see)
 8. Use the `.pop()` method on primes to remove this erroneous entry.
 9. Commit your code.

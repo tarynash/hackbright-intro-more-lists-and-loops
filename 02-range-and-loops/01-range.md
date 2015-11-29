@@ -29,8 +29,8 @@
 Make sure you have pushed your lists exercises before making any commits on GitHub, otherwise you will have to make a merge commit later.*
 
 1. What does `range` do with a single argument?
-  * [Your answer here]
+  * Returns the indeces of the argument. For example, range(5) would return [0,1,2,3,4].
 2. What do the arguments mean if there are 2?
-  * [Your answer here]
+  * Returns the indeces of the 2nd argument, beginning at the first (instead of beginning at the 0 index). For example, range(1:5) returns [1,2,3,4].
 3. What does the third argument mean?
-  * [Your answer here]
+  * The third argument is the number you wish to count the indeces by. For example, range(2,12,2) returns [2,4,6,8,10].

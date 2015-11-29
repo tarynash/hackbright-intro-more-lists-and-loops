@@ -34,14 +34,17 @@
 #	return sum
 #print sum_nums(3)
 
-def sum_nums2(num):
-	sum = 0
-	if num < 0:
-		for i in range(num-1):
-			sum = i + sum
-			return sum
-	else:
-		for i in range(num+1):
-			sum = i + sum
-			return sum
-print sum_nums(-3)
+#def sum_nums2(num):
+#	if num < 0:
+#		sum = 0
+#		for i in range(0,num-1,-1):
+#			sum = i + sum
+#		return sum
+#	else:
+#		sum = 0
+#		for i in range(num+1):
+#			sum = i + sum
+#		return sum
+#print sum_nums2(3)
+
+

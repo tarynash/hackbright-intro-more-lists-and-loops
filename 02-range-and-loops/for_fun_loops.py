@@ -19,3 +19,17 @@
 
 #for item in range(len(fruits)):
 #	print fruits[item],
+
+#def sum_nums(num):
+#	sum = 0
+#	for i in range(num):
+#		sum = i + sum
+#	return sum
+#print sum_nums(3)
+
+#def sum_nums(num):
+#	sum = 0
+#	for i in range(num+1):
+#		sum = i + sum
+#	return sum
+#print sum_nums(3)

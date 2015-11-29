@@ -11,3 +11,11 @@
 #		print "Blastoff!",
 #	else:
 #		print i,
+
+#fruits = ["apples", "oranges" ,"bananas"]
+
+#for item in fruits:
+#	print item,
+
+#for item in range(len(fruits)):
+#	print fruits[item],
